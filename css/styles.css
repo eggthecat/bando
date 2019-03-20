@@ -1,4 +1,10 @@
-img, p {
+img, #description {
   float: left;
   padding: 10px;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
 }
