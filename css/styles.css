@@ -7,4 +7,17 @@ img, #description {
   width: 30%;
   float: right;
   background-color: yellow;
+  margin: 12px;
+  border: 20px solid orange;
+  border-style: groove;
+  padding: 4px;
 }
+
+body {
+  background-color: cyan;
+  font-family: cursive;
+}
+
+ #taco {
+   float: right;
+ }
